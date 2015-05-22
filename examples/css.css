@@ -1,0 +1,72 @@
+.ui.feed  .event .label img{
+	border: 3px solid rgb(246,173,60);
+	
+}
+
+.ui.feed  .event .label{
+	padding-top: 0.6em;
+}
+
+.ui .event {
+	border-bottom: 1px solid #ccc;
+}
+.event .label span{
+ 	background:rgb(254,239,214);
+	color: rgb(254,176,57);
+	display: block;
+	margin: 1em auto;
+	text-align: center;
+	
+}
+
+.event .content .summary .title{
+	
+	font-size: 1em;
+	color: rgb(79,143,231);
+	line-height: 2em;
+}
+
+
+.event .content .summary .title_details{
+	font-size: 0.8em;
+	color: darkgrey;
+	
+}
+.gexingqianming{
+	font-weight: bold;
+	font-size: 1em;
+	padding-top: 1.5em;
+}
+
+
+.ui.feed .content .summary .gexingpic {
+ border-radius: 0em;
+ width: 12em ;
+}
+.title_foot{
+	float: right;
+	font-size: 1em;
+	color: darkgray
+}
+.huati_box_title{
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+}
+
+.huati_box_title span{
+	float: right;
+	color: darkgray;
+	font-weight: normal;
+}
+
+.huati_box div{
+ 	background:rgb(254,239,214);
+	color: rgb(254,176,57);
+	float: left;
+	border-radius: 30px;
+	margin-top: 16px;
+	margin-left: 12px;
+	padding: 6px;
+}
+
+
